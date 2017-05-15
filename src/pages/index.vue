@@ -19,7 +19,7 @@
 		name: 'index',
 		data () {
 			return {
-				title: '0111瀑布流实例hahahah',
+				title: '-10111瀑布流实例hahahah',
 				selected: 'tab1'
 			}
 		},
